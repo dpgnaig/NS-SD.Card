@@ -1,0 +1,62 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NS.SD.Card"
+        xmlns:vm="clr-namespace:NS.SD.Card.ViewModels"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" xmlns:i="http://schemas.microsoft.com/xaml/behaviors" x:Class="NS.SD.Card.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        d:DataContext="{d:DesignInstance IsDesignTimeCreatable=True, Type={x:Type vm:MainViewModel}}">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="{Binding MainViewName}"></TextBlock>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"><Run Text="Select Type:"/></TextBlock>
+                <ComboBox HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Margin="10 5" ItemsSource="{Binding NSTypeList}" SelectedItem="{Binding SelectedItem, Mode=TwoWay}">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="SelectionChanged">
+                            <i:InvokeCommandAction Command="{Binding SelectionChangedCommand}"
+                                                   CommandParameter="{Binding SelectedItem, RelativeSource={RelativeSource Self}}" />
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </ComboBox>
+                <mah:ProgressRing HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Center" Width="5" Height="5" Visibility="{Binding SpinnerVisibility}"/>
+            </StackPanel>
+
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                <ItemsControl ItemsSource="{Binding GitHubReleases}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="0 0 0 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+
+                                <TextBlock VerticalAlignment="Center" Grid.Column="0" Text="{Binding Key}"></TextBlock>
+                                <ComboBox Grid.Column="1" ItemsSource="{Binding Value}"></ComboBox>
+                            </Grid>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>

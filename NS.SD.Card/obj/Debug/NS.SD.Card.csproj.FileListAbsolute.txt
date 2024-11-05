@@ -1,0 +1,62 @@
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\NS.SD.Card.exe.config
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\NS.SD.Card.exe
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\NS.SD.Card.pdb
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.AssemblyReference.cache
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\MainWindow.g.cs
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\App.g.cs
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card_MarkupCompile.cache
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card_MarkupCompile.lref
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\MainWindow.baml
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.g.resources
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.Properties.Resources.resources
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.GenerateResource.cache
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.CoreCompileInputs.cache
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.Fody.CopyLocal.cache
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.exe
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.pdb
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\Octokit.dll
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\Octokit.xml
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.Up2Date
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\ControlzEx.dll
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\MahApps.Metro.dll
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\ControlzEx.pdb
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\ControlzEx.xml
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\MahApps.Metro.pdb
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\MahApps.Metro.xml
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\giangpd\source\repos\NS.SD.Card\NS.SD.Card\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\NS.SD.Card.exe.config
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\NS.SD.Card.exe
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\NS.SD.Card.pdb
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\ControlzEx.dll
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\MahApps.Metro.dll
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\Octokit.dll
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\ControlzEx.pdb
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\ControlzEx.xml
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\MahApps.Metro.pdb
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\MahApps.Metro.xml
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\Octokit.xml
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.AssemblyReference.cache
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\MainWindow.g.cs
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\App.g.cs
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card_MarkupCompile.cache
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card_MarkupCompile.lref
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\MainWindow.baml
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.g.resources
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.Properties.Resources.resources
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.GenerateResource.cache
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.CoreCompileInputs.cache
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.Fody.CopyLocal.cache
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.csproj.Up2Date
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.exe
+C:\Users\DUC GIANG\Downloads\NS.SD.Card\NS.SD.Card\NS.SD.Card\obj\Debug\NS.SD.Card.pdb
